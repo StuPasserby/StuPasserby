@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**StuPasserby/StuPasserby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm StuPasserby 👋
 
-Here are some ideas to get you started:
+**Learning, building, and improving — one commit at a time.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+## About me
+
+- Exploring software and practical developer tools
+- Turning ideas into small, useful projects
+- Rebuilding this space with consistent updates
+
+## Current focus
+
+- Shipping projects with clear documentation
+- Learning in public
+- Writing simple, maintainable code
+
+---
+
+<div align="center">
+  <sub>More projects and notes are on the way.</sub>
+</div>
